@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faizanarshed
-- 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning Data Science through Python.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 I’m interested in Data Visualization, Analysis and Cleaning.
+- 🌱 I’m currently working on Data Science through Python and R.
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects.
 - 📫 Reach me through my Linkedin profile https://www.linkedin.com/in/muhammad-faizan-arshad-a1b466121/ 
 
 <!---
